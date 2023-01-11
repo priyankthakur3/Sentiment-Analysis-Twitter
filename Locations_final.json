@@ -1,0 +1,470 @@
+[
+    {
+        "name": "United States",
+        "placeType": {
+            "code": 12,
+            "name": "Country"
+        },
+        "url": "http://where.yahooapis.com/v1/place/23424977",
+        "parentid": 1,
+        "country": "United States",
+        "woeid": 23424977,
+        "countryCode": "US"
+    },
+    {
+        "name": "United Arab Emirates",
+        "placeType": {
+            "code": 12,
+            "name": "Country"
+        },
+        "url": "http://where.yahooapis.com/v1/place/23424738",
+        "parentid": 1,
+        "country": "United Arab Emirates",
+        "woeid": 23424738,
+        "countryCode": "AE"
+    },
+    {
+        "name": "Algeria",
+        "placeType": {
+            "code": 12,
+            "name": "Country"
+        },
+        "url": "http://where.yahooapis.com/v1/place/23424740",
+        "parentid": 1,
+        "country": "Algeria",
+        "woeid": 23424740,
+        "countryCode": "DZ"
+    },
+    {
+        "name": "Argentina",
+        "placeType": {
+            "code": 12,
+            "name": "Country"
+        },
+        "url": "http://where.yahooapis.com/v1/place/23424747",
+        "parentid": 1,
+        "country": "Argentina",
+        "woeid": 23424747,
+        "countryCode": "AR"
+    },
+    {
+        "name": "Australia",
+        "placeType": {
+            "code": 12,
+            "name": "Country"
+        },
+        "url": "http://where.yahooapis.com/v1/place/23424748",
+        "parentid": 1,
+        "country": "Australia",
+        "woeid": 23424748,
+        "countryCode": "AU"
+    },
+    {
+        "name": "Austria",
+        "placeType": {
+            "code": 12,
+            "name": "Country"
+        },
+        "url": "http://where.yahooapis.com/v1/place/23424750",
+        "parentid": 1,
+        "country": "Austria",
+        "woeid": 23424750,
+        "countryCode": "AT"
+    },
+    {
+        "name": "Belgium",
+        "placeType": {
+            "code": 12,
+            "name": "Country"
+        },
+        "url": "http://where.yahooapis.com/v1/place/23424757",
+        "parentid": 1,
+        "country": "Belgium",
+        "woeid": 23424757,
+        "countryCode": "BE"
+    },
+    {
+        "name": "Brazil",
+        "placeType": {
+            "code": 12,
+            "name": "Country"
+        },
+        "url": "http://where.yahooapis.com/v1/place/23424768",
+        "parentid": 1,
+        "country": "Brazil",
+        "woeid": 23424768,
+        "countryCode": "BR"
+    },
+    {
+        "name": "Canada",
+        "placeType": {
+            "code": 12,
+            "name": "Country"
+        },
+        "url": "http://where.yahooapis.com/v1/place/23424775",
+        "parentid": 1,
+        "country": "Canada",
+        "woeid": 23424775,
+        "countryCode": "CA"
+    },
+    {
+        "name": "Chile",
+        "placeType": {
+            "code": 12,
+            "name": "Country"
+        },
+        "url": "http://where.yahooapis.com/v1/place/23424782",
+        "parentid": 1,
+        "country": "Chile",
+        "woeid": 23424782,
+        "countryCode": "CL"
+    },
+    {
+        "name": "Colombia",
+        "placeType": {
+            "code": 12,
+            "name": "Country"
+        },
+        "url": "http://where.yahooapis.com/v1/place/23424787",
+        "parentid": 1,
+        "country": "Colombia",
+        "woeid": 23424787,
+        "countryCode": "CO"
+    },
+    {
+        "name": "Egypt",
+        "placeType": {
+            "code": 12,
+            "name": "Country"
+        },
+        "url": "http://where.yahooapis.com/v1/place/23424802",
+        "parentid": 1,
+        "country": "Egypt",
+        "woeid": 23424802,
+        "countryCode": "EG"
+    },
+    {
+        "name": "France",
+        "placeType": {
+            "code": 12,
+            "name": "Country"
+        },
+        "url": "http://where.yahooapis.com/v1/place/23424819",
+        "parentid": 1,
+        "country": "France",
+        "woeid": 23424819,
+        "countryCode": "FR"
+    },
+    {
+        "name": "Germany",
+        "placeType": {
+            "code": 12,
+            "name": "Country"
+        },
+        "url": "http://where.yahooapis.com/v1/place/23424829",
+        "parentid": 1,
+        "country": "Germany",
+        "woeid": 23424829,
+        "countryCode": "DE"
+    },
+    {
+        "name": "Greece",
+        "placeType": {
+            "code": 12,
+            "name": "Country"
+        },
+        "url": "http://where.yahooapis.com/v1/place/23424833",
+        "parentid": 1,
+        "country": "Greece",
+        "woeid": 23424833,
+        "countryCode": "GR"
+    },
+    {
+        "name": "Indonesia",
+        "placeType": {
+            "code": 12,
+            "name": "Country"
+        },
+        "url": "http://where.yahooapis.com/v1/place/23424846",
+        "parentid": 1,
+        "country": "Indonesia",
+        "woeid": 23424846,
+        "countryCode": "ID"
+    },
+    {
+        "name": "India",
+        "placeType": {
+            "code": 12,
+            "name": "Country"
+        },
+        "url": "http://where.yahooapis.com/v1/place/23424848",
+        "parentid": 1,
+        "country": "India",
+        "woeid": 23424848,
+        "countryCode": "IN"
+    },
+    {
+        "name": "Israel",
+        "placeType": {
+            "code": 12,
+            "name": "Country"
+        },
+        "url": "http://where.yahooapis.com/v1/place/23424852",
+        "parentid": 1,
+        "country": "Israel",
+        "woeid": 23424852,
+        "countryCode": "IL"
+    },
+    {
+        "name": "Italy",
+        "placeType": {
+            "code": 12,
+            "name": "Country"
+        },
+        "url": "http://where.yahooapis.com/v1/place/23424853",
+        "parentid": 1,
+        "country": "Italy",
+        "woeid": 23424853,
+        "countryCode": "IT"
+    },
+    {
+        "name": "Japan",
+        "placeType": {
+            "code": 12,
+            "name": "Country"
+        },
+        "url": "http://where.yahooapis.com/v1/place/23424856",
+        "parentid": 1,
+        "country": "Japan",
+        "woeid": 23424856,
+        "countryCode": "JP"
+    },
+    {
+        "name": "Kenya",
+        "placeType": {
+            "code": 12,
+            "name": "Country"
+        },
+        "url": "http://where.yahooapis.com/v1/place/23424863",
+        "parentid": 1,
+        "country": "Kenya",
+        "woeid": 23424863,
+        "countryCode": "KE"
+    },
+    {
+        "name": "Kuwait",
+        "placeType": {
+            "code": 12,
+            "name": "Country"
+        },
+        "url": "http://where.yahooapis.com/v1/place/23424870",
+        "parentid": 1,
+        "country": "Kuwait",
+        "woeid": 23424870,
+        "countryCode": "KW"
+    },
+    {
+        "name": "Mexico",
+        "placeType": {
+            "code": 12,
+            "name": "Country"
+        },
+        "url": "http://where.yahooapis.com/v1/place/23424900",
+        "parentid": 1,
+        "country": "Mexico",
+        "woeid": 23424900,
+        "countryCode": "MX"
+    },
+    {
+        "name": "Malaysia",
+        "placeType": {
+            "code": 12,
+            "name": "Country"
+        },
+        "url": "http://where.yahooapis.com/v1/place/23424901",
+        "parentid": 1,
+        "country": "Malaysia",
+        "woeid": 23424901,
+        "countryCode": "MY"
+    },
+    {
+        "name": "Netherlands",
+        "placeType": {
+            "code": 12,
+            "name": "Country"
+        },
+        "url": "http://where.yahooapis.com/v1/place/23424909",
+        "parentid": 1,
+        "country": "Netherlands",
+        "woeid": 23424909,
+        "countryCode": "NL"
+    },
+    {
+        "name": "Norway",
+        "placeType": {
+            "code": 12,
+            "name": "Country"
+        },
+        "url": "http://where.yahooapis.com/v1/place/23424910",
+        "parentid": 1,
+        "country": "Norway",
+        "woeid": 23424910,
+        "countryCode": "NO"
+    },
+    {
+        "name": "New Zealand",
+        "placeType": {
+            "code": 12,
+            "name": "Country"
+        },
+        "url": "http://where.yahooapis.com/v1/place/23424916",
+        "parentid": 1,
+        "country": "New Zealand",
+        "woeid": 23424916,
+        "countryCode": "NZ"
+    },
+    {
+        "name": "Peru",
+        "placeType": {
+            "code": 12,
+            "name": "Country"
+        },
+        "url": "http://where.yahooapis.com/v1/place/23424919",
+        "parentid": 1,
+        "country": "Peru",
+        "woeid": 23424919,
+        "countryCode": "PE"
+    },
+    {
+        "name": "Portugal",
+        "placeType": {
+            "code": 12,
+            "name": "Country"
+        },
+        "url": "http://where.yahooapis.com/v1/place/23424925",
+        "parentid": 1,
+        "country": "Portugal",
+        "woeid": 23424925,
+        "countryCode": "PT"
+    },
+    {
+        "name": "Russia",
+        "placeType": {
+            "code": 12,
+            "name": "Country"
+        },
+        "url": "http://where.yahooapis.com/v1/place/23424936",
+        "parentid": 1,
+        "country": "Russia",
+        "woeid": 23424936,
+        "countryCode": "RU"
+    },
+    {
+        "name": "South Africa",
+        "placeType": {
+            "code": 12,
+            "name": "Country"
+        },
+        "url": "http://where.yahooapis.com/v1/place/23424942",
+        "parentid": 1,
+        "country": "South Africa",
+        "woeid": 23424942,
+        "countryCode": "ZA"
+    },
+    {
+        "name": "Singapore",
+        "placeType": {
+            "code": 12,
+            "name": "Country"
+        },
+        "url": "http://where.yahooapis.com/v1/place/23424948",
+        "parentid": 1,
+        "country": "Singapore",
+        "woeid": 23424948,
+        "countryCode": "SG"
+    },
+    {
+        "name": "Spain",
+        "placeType": {
+            "code": 12,
+            "name": "Country"
+        },
+        "url": "http://where.yahooapis.com/v1/place/23424950",
+        "parentid": 1,
+        "country": "Spain",
+        "woeid": 23424950,
+        "countryCode": "ES"
+    },
+    {
+        "name": "Sweden",
+        "placeType": {
+            "code": 12,
+            "name": "Country"
+        },
+        "url": "http://where.yahooapis.com/v1/place/23424954",
+        "parentid": 1,
+        "country": "Sweden",
+        "woeid": 23424954,
+        "countryCode": "SE"
+    },
+    {
+        "name": "Switzerland",
+        "placeType": {
+            "code": 12,
+            "name": "Country"
+        },
+        "url": "http://where.yahooapis.com/v1/place/23424957",
+        "parentid": 1,
+        "country": "Switzerland",
+        "woeid": 23424957,
+        "countryCode": "CH"
+    },
+    {
+        "name": "Thailand",
+        "placeType": {
+            "code": 12,
+            "name": "Country"
+        },
+        "url": "http://where.yahooapis.com/v1/place/23424960",
+        "parentid": 1,
+        "country": "Thailand",
+        "woeid": 23424960,
+        "countryCode": "TH"
+    },
+    {
+        "name": "Turkey",
+        "placeType": {
+            "code": 12,
+            "name": "Country"
+        },
+        "url": "http://where.yahooapis.com/v1/place/23424969",
+        "parentid": 1,
+        "country": "Turkey",
+        "woeid": 23424969,
+        "countryCode": "TR"
+    },
+    {
+        "name": "United Kingdom",
+        "placeType": {
+            "code": 12,
+            "name": "Country"
+        },
+        "url": "http://where.yahooapis.com/v1/place/23424975",
+        "parentid": 1,
+        "country": "United Kingdom",
+        "woeid": 23424975,
+        "countryCode": "GB"
+    },
+    {
+        "name": "Ukraine",
+        "placeType": {
+            "code": 12,
+            "name": "Country"
+        },
+        "url": "http://where.yahooapis.com/v1/place/23424976",
+        "parentid": 1,
+        "country": "Ukraine",
+        "woeid": 23424976,
+        "countryCode": "UA"
+    }
+]

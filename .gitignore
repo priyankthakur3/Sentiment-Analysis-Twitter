@@ -1,0 +1,10 @@
+config.py
+/snscrape
+/rawData
+/SQL Schemas
+/__pycache__
+woeid.json
+testing.json
+temp*
+testing*
+SentimentAnalysis.ipynb
