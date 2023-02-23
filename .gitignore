@@ -7,4 +7,5 @@ woeid.json
 testing.json
 temp*
 testing*
-SentimentAnalysis.ipynb
+*.ipynb
+**/connection.py
