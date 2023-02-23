@@ -2,7 +2,7 @@ config.py
 /snscrape
 /rawData
 /SQL Schemas
-/__pycache__
+**/__pycache__
 woeid.json
 testing.json
 temp*
