@@ -21,7 +21,9 @@ router.route("/:locationid").get(async (req, res) => {
 
   try {
     let locationObj = await locationData.get(req.params.locationid);
-    if (locationObj) res.json(locationObj);
+    if (!locationObj)
+      return res.status(404).json({ error: "Location not Found" });
+    res.json(locationObj);
   } catch (error) {
     return res.status(404).json({ error: error.message });
   }
