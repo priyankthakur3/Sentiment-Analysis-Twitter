@@ -206,7 +206,6 @@ const get = async (id) => {
 };
 
 const getEmojiCount = async (param) => {
-  console.log(param);
   let filters = {};
   filters["tweet_emojis"] = { $exists: true, $ne: "" };
   for (const [key, value] of Object.entries(param)) {
@@ -220,7 +219,6 @@ const getEmojiCount = async (param) => {
     if (key === "sentiment" && value === "neutral")
       filters["tweet_compound_score"] = { $gt: -0.5, $lt: 0.5 };
   }
-  console.log(filters);
   const tweetsCollection = await tweets();
   let tweetObj = await tweetsCollection
     .aggregate([

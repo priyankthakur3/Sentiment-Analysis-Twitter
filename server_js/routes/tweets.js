@@ -42,27 +42,11 @@ router.route("/emoji").get(async (req, res) => {
       return res.status(400).json({ error: error.message });
     }
 
-  let response = await tweetData.getEmojiCount(param);
-  return res.json(response);
-});
-
-router.route("/location/stats/:woeid").get(async (req, res) => {
   try {
-    req.params.woeid = isString("WOEID", req.params.woeid);
+    let response = await tweetData.getEmojiCount(param);
+    return res.json(response);
   } catch (error) {
-    return res.status(400).json({ error: error.message });
-  }
-
-  try {
-    let tweetStats = await tweetData.getLocationStats(req.params.woeid);
-    if (tweetStats[0] !== 200)
-      return res.status(tweetStats[0]).json({ error: "Server Error" });
-    return res.json({
-      length: tweetStats[1].length,
-      data: tweetStats[1],
-    });
-  } catch (error) {
-    res.status(500).json({ error: error.message });
+    return res.status(500).json({ error: error.message });
   }
 });
 
