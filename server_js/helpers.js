@@ -40,8 +40,14 @@ const isNumber = (varName, varVal) => {
   if (typeof varName !== "string" || varName.trim().length < 1)
     throw new Error(`Expected VarName to be non-empty String`);
 
-  if (typeof varVal !== "number" || isNaN(varVal))
+  if (typeof varVal !== "string" || varVal.trim().length < 1)
+    throw new Error(`Expected ${varName} Value`);
+
+  try {
+    varVal = Number(varVal);
+  } catch (error) {
     throw new Error(`Expected ${varName} to be Number`);
+  }
 
   return varVal;
 };

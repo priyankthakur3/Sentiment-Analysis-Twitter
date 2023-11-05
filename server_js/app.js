@@ -1,7 +1,8 @@
 // This file should set up the express server as shown in the lecture code
 import express from "express";
 import configRoutes from "./routes/index.js";
-
+import * as dotenv from "dotenv";
+dotenv.config();
 const app = express();
 const port = 3000;
 
